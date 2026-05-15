@@ -216,8 +216,8 @@ other client's `PrintWriter` stream.
 
 ---
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bf230c72-6a01-4c8f-be4d-48ea1aeed0a2" />
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/88801c48-9c6d-48db-aa6d-62008ac52fb2" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bf230c72-6a01-4c8f-be4d-48ea1aeed0a2" />
 
 ---
 
